@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kishoreba008
-- 👀 I’m interested in Web developer and designer
+- 👀 I’m interested in Web development and design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
